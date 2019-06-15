@@ -1,4 +1,4 @@
-package observer;
+package observer.book_realizatiom;
 
 public class WeatherStation {
     public static void main(String[] args) {
